@@ -1,5 +1,8 @@
 /*stylesheet*/
 h1 {
 	font-size: 50px;
-	outline-color: mediumaquamarine;
+
+}
+h1.alternate {
+	color: paleturquoise;
 }
