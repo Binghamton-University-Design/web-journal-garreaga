@@ -1,7 +1,13 @@
 /*stylesheet*/
+
+body {
+	font-size: 20px;
+
+}
 h1 {
 	font-size: 50px;
 	color: ghostwhite;
+	margin-bottom: 3rem;
 
 }
 h1.alternate {
@@ -9,7 +15,9 @@ h1.alternate {
 }
 p {
 	font-size: 30px;
+	font-family: sans-serif;
 	color: floralwhite;
+	margin-bottom: 2rem;
 }
 p.alternate {
 	color: lightpink;
@@ -20,4 +28,11 @@ p.alternate {
 	margin-bottom: 2rem;
 	font-size: 60px;
 
+}
+a {
+	text-decoration: underline;
+	font-weight: bold;
+}
+a.hover {
+	text-decoration: none;
 }
