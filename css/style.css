@@ -14,3 +14,10 @@ p {
 p.alternate {
 	color: lightpink;
 }
+
+#site-title {
+	text-align: center;
+	margin-bottom: 2rem;
+	font-size: 60px;
+	
+}
