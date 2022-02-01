@@ -7,3 +7,10 @@ h1 {
 h1.alternate {
 	color: paleturquoise;
 }
+p {
+	font-size: 30px;
+	color: floralwhite;
+}
+p.alternate {
+	color: lightpink;
+}
