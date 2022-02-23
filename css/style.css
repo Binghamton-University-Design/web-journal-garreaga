@@ -11,6 +11,12 @@ body {
   font-family: 'Supermercado One', cursive;
   font-weight: 300;
 }
+/*design brief page body*/
+body.designbrief {
+  margin: 0;  
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400;
+}
 
 h1, h2, h3, h4, p {
   margin-top: 0;
