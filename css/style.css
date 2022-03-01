@@ -44,6 +44,11 @@ h1, h2 {
   align-items: center;
 }
 
+/* attempt at making it hover pink?*/
+#topnav a:hover {
+color: hotpink;
+}
+
 #logo h1 {
   letter-spacing: 1px;
   font-weight: 300;
@@ -179,15 +184,22 @@ h1, h2 {
   transition: text-decoration-color .3s ease-in-out;
 }
 
-.page-item h2 a:hover {
+.page-item h2 a: hover {
   color: var(--body-color);
   text-decoration-color: var(--body-color); 
 }
+/*MFP LINKS on proposal page*/
 
 .page-item p a {
   color: var(--body-color);
-  text-decoration-color: var(--body-color); 
+  text-decoration: underline; 
 }
+
+.page-item p a:hover {
+  color:hotpink;
+  text-decoration: underline;
+}
+
 
 
 /*FOOTER*/
@@ -242,3 +254,4 @@ h1, h2 {
   }
 
 }
+
