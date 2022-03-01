@@ -17,6 +17,12 @@ body.designbrief {
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
 }
+/*about*/
+body.about{
+  margin: 0;  
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400;
+}
 
 h1, h2, h3, h4, p {
   margin-top: 0;
@@ -45,6 +51,7 @@ h1, h2 {
 }
 
 /* attempt at making it hover pink?*/
+/* IT FUCKIN WORKED MUAHAHAHAHA */
 #topnav a:hover {
 color: hotpink;
 }
