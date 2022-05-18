@@ -49,9 +49,11 @@ h1, h2 {
   height: 100%;
   align-items: center;
 }
-
+ #work a:hover {
+  color: hotpink;
+}
 /* attempt at making it hover pink?*/
-/* IT FUCKIN WORKED MUAHAHAHAHA */
+/* IT  WORKED MUAHAHAHAHA */
 #topnav a:hover {
 color: hotpink;
 }
